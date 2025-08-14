@@ -22,4 +22,4 @@ This project predicts whether an individual's annual income exceeds $50K based o
 pip install -r requirements.txt
 jupyter notebook uci_adult_income.ipynb
 
-**Live Version on Kaggle:** Click Here(https://www.kaggle.com/code/tjinnie/uci-adult-income-dataset-census-income/254347204)
+**Live Version on Kaggle:** [Click here to view](https://www.kaggle.com/code/tjinnie/uci-adult-income-dataset-census-income/254347204)
