@@ -17,9 +17,11 @@ This project predicts whether an individual's annual income exceeds $50K based o
 - Chose Precision due to class imbalance (75% ≤50K vs. 25% >50K)
 
 
+
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
 jupyter notebook uci_adult_income.ipynb
 
+## Kaggle link
 **Live Version on Kaggle:** [Click here to view](https://www.kaggle.com/code/tjinnie/uci-adult-income-dataset-census-income/254347204)
